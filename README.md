@@ -33,6 +33,6 @@ I am currently migrating my research projects and professional presence to this 
 ### 📫 Connect with Me
 - **Email:** [jireh.y.chen@gmail.com](jireh.y.chen@gmail.com)
 - **Academic Homepage:** [jireh-chen.github.io](https://jireh-chen.github.io/)
-- **Interests:** Badminton 🏸 | Debate 🎤 | Singing 🎵
+- **Interests:** Pokémon 🟠
 
 ---
