@@ -16,6 +16,7 @@ I am currently migrating my research projects and professional presence to this 
 
 | Project | Venue | Description |
 | :--- | :--- | :--- |
+| **[EaSFE](https://github.com/JirehChan/2026_TKDD_EaSFE)** | **TKDD 2026** | EaSFE: Efficient and Scalable Automatic Feature Engineering. |
 | **[DOIT](https://github.com/JirehChan)** | **ICLR 2026** | Towards Dynamic Interleaving Optimizers for efficient training. |
 | **[SAWU](https://github.com/JirehChan/SAWU)** | **AAAI 2026** | Sensitivity-Aware Warm-Up for robust fine-tuning. |
 | **[SolutionRec](https://github.com/JirehChan/SolutionRecommendation)** | **TKDD 2025** | Meta-learning based algorithm configuration recommendation. |
